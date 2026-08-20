@@ -1,0 +1,17 @@
+html{
+    font-size: medium;
+    font-family: sans-serif;
+}
+body{
+    background-color: cyan;
+    color: bisque;
+}
+h1{
+    color: blueviolet;
+}
+h2{color: honeydew;}
+p{color: lightslategray;}
+a{color: blue;}
+a:active{color: chocolate;}
+a:hover{color: black;}
+a:visited{color: aquamarine;}
