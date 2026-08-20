@@ -10,7 +10,8 @@ h1{
     color: blueviolet;
 }
 h2{color: honeydew;}
-p{color: lightslategray;}
+p{color: lightslategray;
+font-style: italic;}
 a{color: blue;}
 a:active{color: chocolate;}
 a:hover{color: black;}
